@@ -151,6 +151,15 @@ Confirmando o produto o sistema iniciará o processo de validação.
 Após o término da análise da proposta, será exibido a tela com as propostas pendentes.
 ![TelaPropostaEmAndamento](/Imagens/TelaPropostasEmAndamento.PNG)
 
+### 3.3.2 Analista
+O analista é o usuário que ficará responsável em analisar as propostas que ficaram pendentes.
+![TelaCadastroAnalista](/Imagens/TelaCadastroAnalista.PNG)
+Para efetuar a pesquisa dos analistas cadastrados 
+
+![TelaNovoAnalista](/Imagens/TelaNovoAnalista.PNG)
+- Lista dos campos
+
+
 
 
 
