@@ -146,6 +146,11 @@ Ao selecionar um dos produtos, será solicitado a inclusão dos dados do cliente
 
 Após confirmar o cadastro, e solicitar a inclusão, será solicitado a confirmação do produto.
 ![TelaPromotorConfirmarProduto](/Imagens/TelaPromotorConfirmarProduto.PNG)
+Confirmando o produto o sistema iniciará o processo de validação.
+![TelaAnalisandoProposta](/Imagens/TelaAnalisandoProposta.PNG)
+Após o término da análise da proposta, será exibido a tela com as propostas pendentes.
+![TelaPropostaEmAndamento](/Imagens/TelaPropostasEmAndamento.PNG)
+
 
 
 
