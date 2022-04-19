@@ -28,72 +28,72 @@ Ano: 2022
 A proposta deste documento é instruir o usuário a interagir com o sistema Kappta v.0.01, apresentado as funcionalidades de modo prático seguindo um modelo passo a passo.
 # 2.Acessando o kappta
 Na inclusão do usuário, o sistema irá enviar um e-mail solicitando a confirmação do cadastro. 
-![EmailConfirmacao](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/EmailConfirmacao.PNG)
+![EmailConfirmacao](/Imagens/EmailConfirmacao.PNG)
 Ao clicar em 'confirmação de Cadastro', será exibido a tela para que seja indicada a senha. 
-![CadastroSenha](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/PrimeiroAcesso.PNG)
+![CadastroSenha](/Imagens/PrimeiroAcesso.PNG)
 
 A senha deve possuir entre 8 e 30 caracteres, contendo no mínimo uma letra maiúscula, uma letra minúscula e um numeral, caso a senha informada não obdeças a estes requisitos será exibida uma mensagem de erro e solicitado a digitação da senha seguindo os critérios informados. Efetuando a complemento do cadastro adquadamente, a próxima tela a ser exibida será o módulo que o usuário tem acesso.
 
 Para acessar o kappta posteriormente o usuário deverá digitar em seu navegador de preferência a URL disponibilizada pela equipe do kappta que será a mesma disponibilizada no primeiro acesso. Após digitação da URL e confimação a tela abaixo será exibida em seu navegador.
-![TelaLogin](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaLogin.PNG)
+![TelaLogin](/Imagens/TelaLogin.PNG)
 
 # 2.1 Redifinição de senha
 Caso seja necessário definir outra senha, na tela de login, é só clicar em 'Recuperar senha'. 
 
-![TelaLogin](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaLogin.PNG)
+![TelaLogin](/Imagens/TelaLogin.PNG)
 Será solicitado a digitação do endereço de e-mail, este deve ser o mesmo que foi informado na criação do seu usuário, pois o sistema fará esta checagem, só enviando o link para a redifinição de senha se o e-mail coincidir.
 
-![RedefinirSenha](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/RedifinicaoSenha.PNG)
+![RedefinirSenha](/Imagens/RedifinicaoSenha.PNG)
 Após informar o e-mail e clicar em enviar, será enviado um e-mail para a caixa de entrada do endereço informado.
-![EmailRecuperarSenha](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/EmailRecuperarSenha.PNG)
+![EmailRecuperarSenha](/Imagens/EmailRecuperarSenha.PNG)
 
 Clicando em 'Redefinir Senha' será exibida a tela solicitando que seja informada uma nova senha obdecendo os critérios de tamanho mínimo, contendo caracteres maiúsculos e minúsculos e números, confome já descrito neste material.
 
-![TelaRedefinirSenha](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaRedefinirSenha.PNG)
+![TelaRedefinirSenha]/Imagens/TelaRedefinirSenha.PNG)
 
 # 2.2 Recuperar Login
 Caso não lembre qual seja o seu login para o sistema kappta, na tela inicial.
-![TelaLogin](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaLogin.PNG)
+![TelaLogin](/Imagens/TelaLogin.PNG)
 
 selecione recuperar login, informe o endereço de e-mail e clique em enviar, o sistema irá enviar um e-mail informando qual é o seu usuário.
-![RecuperarLogin](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/RecuperarLogin.PNG)
+![RecuperarLogin](/Imagens/RecuperarLogin.PNG)
 
 Segue modelo de e-mail para a recuperação do usuário.
-![EmailRecuperarLogin](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/EmailRecuperarLogin.PNG)
+![EmailRecuperarLogin](/Imagens/EmailRecuperarLogin.PNG)
 
 # 2.3 Botões de ação
 Toda a interação no sistema será através de botões, as descrições e imagens utilizados nos mesmos são intuitivas:
 
-![BotaoIncluir](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/BotaoIncluir.PNG)-Inclusão de um novo item.
+![BotaoIncluir](/Imagens/BotaoIncluir.PNG)-Inclusão de um novo item.
 
-![BotaoPesquisar](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/BotaoPesquisar.PNG)-Confirma a pesquisa de algum ou mais de um filtro que tenha sido preenchido.
+![BotaoPesquisar](/Imagens/BotaoPesquisar.PNG)-Confirma a pesquisa de algum ou mais de um filtro que tenha sido preenchido.
 
-![LimparFiltros](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/BotaoLimpar.PNG)-Permiti a limpeza dos filtros utilizados para a consulta de uma única vez.
+![LimparFiltros](/Imagens/BotaoLimpar.PNG)-Permiti a limpeza dos filtros utilizados para a consulta de uma única vez.
 
-![BotaoAlterar](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/BotaoAlterar.PNG)-De acordo com o item selecionado, será aberta uma janela com dados cadastrados para este item.
+![BotaoAlterar](/Imagens/BotaoAlterar.PNG)-De acordo com o item selecionado, será aberta uma janela com dados cadastrados para este item.
 
-![BotaoSalvar](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/BotaoSalvar.PNG)-As alterações ou inclusão só serão gardadas, caso este botão seja acionado após o preenchimento dos campos.
+![BotaoSalvar](/Imagens/BotaoSalvar.PNG)-As alterações ou inclusão só serão gardadas, caso este botão seja acionado após o preenchimento dos campos.
 
-![BotaoAtivoAcionado](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/BotaoAtivoAcionado.PNG) e ![BotaoAtivoDesabilitado](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/BotaoAtivoDesabilitado.PNG)-Estes serão responsáveis para informar se o registro está ativo ou não.
+![BotaoAtivoAcionado](/Imagens/BotaoAtivoAcionado.PNG) e ![BotaoAtivoDesabilitado](/Imagens/BotaoAtivoDesabilitado.PNG)-Estes serão responsáveis para informar se o registro está ativo ou não.
 
 
 # 3.Módulos do sistema
 A divisão em módulos visa facilitar a distribuição de responsabilidades por usuário, pois desta forma cada  usuário terá disponível após logar no sistema, acesso apenas ao que for relacionado a sua função, permitindo assim um foco maior em suas competências.
-![TelaModulo](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaModulos.png)
+![TelaModulo](/Imagens/TelaModulos.png)
 
 ## 3.1. Origens comerciais
 As origens comerciais, são também denominadas de filiais, onde a empresa pode ter uma ou diversas origens comerciais, com a inclusão individual, é possível customizar quais produtos serão diponibilizados por origem comercial.
 
-![TelaOrigemComercial](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/ModuloOrigensComerciais.PNG)
+![TelaOrigemComercial](/Imagens/ModuloOrigensComerciais.PNG)
 
 Ao selecionar a opção origens, será exibido a lista com todas as origens comerciais já cadastrada, se esta é a primeira origem a ser cadastra a lista estará vazia.
 
-![TelaInicialOrigemComercial](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaInicialOrigemComercial.PNG)
+![TelaInicialOrigemComercial](/Imagens/TelaInicialOrigemComercial.PNG)
 - Para filtrar alguma filial específica ou uma lista, preecha parcialmente o campo título e clique em pesquisar, o sistema irá pesquisar parcialmente pelas iniciais indicadas.
 - Para ativar ou desativar uma filial, vá em ativo e mude o status, ativo ficará na cor 'azul'.
 - Caso deseje efetuar alterações clique na imagem do lápis para o item desejado, será disponibilizada a tela semelhante a de cadastro para que suas alterações sejam efetivadas.
 - Para a inclusão de um novo item, clique no botão inserir, será exibido a tela com os seguintes campos a serem informados:
-![TelaInclusaoOrigem](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaInclusaOrigem.PNG)
+![TelaInclusaoOrigem](/Imagens/TelaInclusaOrigem.PNG)
 - Lista dos campos e suas finalidades;
   - Nome: O nome da origem comercial.
   - Código externo: As empresas geralmente enumeram as suas filias, caso exista esta é a informação a ser preenchida, caso contrário terá que ser criado um valor, pois o campo é obrigatório.
@@ -103,11 +103,11 @@ Ao selecionar a opção origens, será exibido a lista com todas as origens come
 
 ## 3.2 Grupos
 Os grupos, serão criados para organizar as origens comerciais, se o usuário assim o desejar, pois desta forma poderemos unificar algumas origens em apenas um grupo e este grupo direcionado para um coordenador. Unindo em grupos também irá proporcionar a criação de relatórios por grupo de origens comerciais.
-![TelaGrupo](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaGrupo.PNG)
+![TelaGrupo](/Imagens/TelaGrupo.PNG)
  - Para filtrar algum grupo específico, informe o nome no título, basta as inciais, ao clicar no botão pesquisar e a lista será disponibilizada.
  - Caso deseje alterar clique no ícone do lápis no item que se deseja alterar e a tela com os campos disponíves será disponibilizada.
 
-![TelaCadastroGrupo](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaCadastroGrupo.PNG)
+![TelaCadastroGrupo](/Imagens/TelaCadastroGrupo.PNG)
 - Para inserir um novo grupo é só informar o título e clicar no botão salvar.
 
 ## 3.3 Usuários
@@ -115,10 +115,10 @@ Este módulo será o responsável pelo acesso e qual as funções específicas c
 
 ### 3.3.1 Promotor
 O promotor é o usuário do sistema que fica resposável em obter novas propostas comerciais, este irá se relacionar diretamente com o público, ofertando o produto.
-![TelaPromotor](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaPromotor.PNG)
+![TelaPromotor](/Imagens/TelaPromotor.PNG)
 Seguindo o padrão, todos os promotores serão listados, caso seja necessário pesquisar um específico, é necessário preencher mesmo que parcial alguns dos campos e clicar em pesquisar.
 Ao solicitar a inclusão de um novo promotor será exibido a tela.
-![TelaInserirPromotor](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaInserirPromotor.PNG)
+![TelaInserirPromotor](/Imagens/TelaInserirPromotor.PNG)
 - Listas de campos e suas finalidades;
   - Nome: É o nome completo do promotor,
   - Login: Este será o nome do usuário que o promotor deverá digitar para acessar o sistema.
@@ -128,24 +128,24 @@ Ao solicitar a inclusão de um novo promotor será exibido a tela.
 
 Ao acessar o sistema será solicitado ao promotor que selecione a origem comercial em que está atuando no dia.
 
-![TelaInicialPromotor](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaInicialPromotor.PNG)
+![TelaInicialPromotor](/Imagens/TelaInicialPromotor.PNG)
 
 Após a seleção da origem comercial.
 
-![TelaPromotorPropostas](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaPromotorPropostas.PNG)
+![TelaPromotorPropostas](/Imagens/TelaPromotorPropostas.PNG)
 Ao solicitar a inclusão de uma nova proposta é exibido os produtos.
 
-![TelaPromotorProdutos](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaPromotorProdutos.PNG)
+![TelaPromotorProdutos](/Imagens/TelaPromotorProdutos.PNG)
 
 Ao selecionar um dos produtos, será solicitado a inclusão dos dados do cliente.
-![TelaPromotorInserirProposta](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaPromotorInserirProposta.PNG)
+![TelaPromotorInserirProposta](/Imagens/TelaPromotorInserirProposta.PNG)
 - Lista de campos e suas finalidades;
   - CPF: Número do cadastro único do cliente.
   - Data Nascimento: A data de nascimento do cliente. 
   - Nome: O nome do cliente.
 
 Após confirmar o cadastro, e solicitar a inclusão, será solicitado a confirmação do produto.
-![TelaPromotorConfirmarProduto](https://raw.githubusercontent.com/agsilvamhm/imagens/main/Smilego/TelaPromotorConfirmarProduto.PNG)
+![TelaPromotorConfirmarProduto](/Imagens/TelaPromotorConfirmarProduto.PNG)
 
 
 
