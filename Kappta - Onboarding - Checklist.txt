@@ -1,0 +1,42 @@
+
+==========
+Set-up
+==========
+
+- Ambiente do Cliente
+
+	- Volumetria
+	- Credenciais Homologação (Motor de Crédito, Motor de Biometria, Processadora)
+	- White Label (Nome, Logomarca e Paleta de Cores)
+
+- Produtos
+
+	- Código Externo, Natureza (PF/PJ), Nome, Imagem...
+
+- Jornadas
+
+	- Scripts (Fluxos, Integrações, Formulários)
+	- Compliance (Política de Privacidade, Contrato, Termo de Adesão)
+	- Aprovação (Mensagem SMS, Textos Telas Inicial e Final Módulo Web)
+
+- Origens Comerciais e Usuários
+
+
+- Políticas
+
+	- Produtos x Canais
+
+- Mesa
+
+	- Limites Permissão, Mínimo e Máximo (Piso e Teto)
+	- Campos Pendenciáveis
+	- Checklist
+	- Filas de Alçada
+
+- Parâmetros
+
+	- Tempo de Expiração das Propostas
+	- Tempo de Carência por Reprovação de Proposta
+	- Tempo de Visualização das Propostas
+	- Permissões TAC (Baixar, Reenvio SMS)
+	- Links App Stores
