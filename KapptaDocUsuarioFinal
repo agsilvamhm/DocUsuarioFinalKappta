@@ -25,14 +25,14 @@ Ano: 2022
 4. Glossário
 
 # 1.Introdução
-A proposta deste documento é instruir o usuário a interagir com o sistema Kappta v.0.01, apresentado as funcionalidades de modo prático seguindo um modelo passo a passo.
+O sistema foi construído visando lhe proporcionar fácil entendimento para utilizá-lo, para isso tivemos o cuidado para que todas as telas fossem intuitivas e que suas funções ficassem explicitas. A proposta deste documento é lhe auxiliar a interagir com o sistema Kappta v.0.01, apresentado as funcionalidades de modo prático, seguindo um modelo passo a passo, visando desta forma contribuir e facilitar sua experiência, como também contribuir com você para obter todos os recursos do sistema.  
 # 2.Acessando o kappta
-Na inclusão do usuário, o sistema irá enviar um e-mail solicitando a confirmação do cadastro. 
+Na inclusão de um usuário, o sistema irá enviar um e-mail solicitando a confirmação do cadastro. Mais adiante será mostrado que para o cadastro de usuário é necessário informar um endereço de e-mail. 
 ![EmailConfirmacao](/Imagens/EmailConfirmacao.PNG)
-Ao clicar em 'confirmação de Cadastro', será exibido a tela para que seja indicada a senha. 
+Ao clicar em 'Confirmação de Cadastro', será exibido a tela para que seja indicada a senha. 
 ![CadastroSenha](/Imagens/PrimeiroAcesso.PNG)
 
-A senha deve possuir entre 8 e 30 caracteres, contendo no mínimo uma letra maiúscula, uma letra minúscula e um numeral, caso a senha informada não obdeças a estes requisitos será exibida uma mensagem de erro e solicitado a digitação da senha seguindo os critérios informados. Efetuando a complemento do cadastro adquadamente, a próxima tela a ser exibida será o módulo que o usuário tem acesso.
+A senha deve possuir entre 8 e 30 caracteres, contendo no mínimo uma letra maiúscula, uma letra minúscula e um numeral, caso a senha informada não obdeça a estes requisitos será exibida uma mensagem de erro e solicitado a digitação da senha seguindo os critérios informados. Efetuando a complemento do cadastro adequadamente, a próxima tela a ser exibida será o módulo que o usuário tem acesso.
 
 Para acessar o kappta posteriormente o usuário deverá digitar em seu navegador de preferência a URL disponibilizada pela equipe do kappta que será a mesma disponibilizada no primeiro acesso. Após digitação da URL e confimação a tela abaixo será exibida em seu navegador.
 ![TelaLogin](/Imagens/TelaLogin.PNG)
