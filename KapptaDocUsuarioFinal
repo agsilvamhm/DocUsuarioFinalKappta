@@ -49,13 +49,13 @@ Após informar o e-mail e clicar em enviar, será enviado um e-mail para a caixa
 
 Clicando em 'Redefinir Senha' será exibida a tela solicitando que seja informada uma nova senha obdecendo os critérios de tamanho mínimo, contendo caracteres maiúsculos e minúsculos e números, confome já descrito neste material.
 
-![TelaRedefinirSenha]/Imagens/TelaRedefinirSenha.PNG)
+![TelaRedefinirSenha](/Imagens/TelaRedefinirSenha.PNG)
 
 # 2.2 Recuperar Login
 Caso não lembre qual seja o seu login para o sistema kappta, na tela inicial.
 ![TelaLogin](/Imagens/TelaLogin.PNG)
 
-selecione recuperar login, informe o endereço de e-mail e clique em enviar, o sistema irá enviar um e-mail informando qual é o seu usuário.
+Selecione recuperar login, informe o endereço de e-mail e clique em enviar, o sistema irá enviar um e-mail informando qual é o seu usuário.
 ![RecuperarLogin](/Imagens/RecuperarLogin.PNG)
 
 Segue modelo de e-mail para a recuperação do usuário.
