@@ -111,6 +111,10 @@ Os grupos, serão criados para organizar as origens comerciais, se o usuário as
 ## 3.3 Usuários
 Este módulo será o responsável pelo acesso e qual as funções específicas cada usuário irá executar, pois de acordo com o perfil cadastrado, o sistema irá disponibilizar apenas as funções referentes ao perfil cadastrado, proporcionando desta forma um maior foco nas atividades por usuário.
 
+Para cada usuário, logo após o cadastro, o mesmo será inserido na lista e o campo status ficará com uma exclamação, o motivo é que o usuário não fez nenhum acesso, ao primeiro acesso a exclamação não constará mais.
+![StatusAcesso](/Imagens/StatusAcesso.PNG)
+
+
 ### 3.3.1 Promotor
 O promotor é o usuário do sistema que fica resposável em obter novas propostas comerciais, este irá se relacionar diretamente com o público, ofertando o produto.
 ![TelaPromotor](/Imagens/TelaPromotor.PNG)
@@ -156,7 +160,10 @@ Para efetuar a pesquisa dos analistas cadastrados
 
 ![TelaNovoAnalista](/Imagens/TelaNovoAnalista.PNG)
 - Lista de campos e suas finalidades;
-  - 
+  - Nome: Nome do analista.
+  - Login: Nome para acesso ao sistema.
+  - E-mail: Este será o endereço para onde será enviado as instruções para completar o cadastro e poder acessar o sistema, também será o endereço utilizado para a recuperação de senha e usuário.
+  - Usar e-mail secundário: Caso seja ativado tudo o que foi comentado para o campo E-mail será substituido pelo campo E-mail secundário.
 
 
 
