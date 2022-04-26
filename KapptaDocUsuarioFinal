@@ -32,9 +32,9 @@ Na inclusão de um usuário, o sistema irá enviar um e-mail solicitando a confi
 Ao clicar em 'Confirmação de Cadastro', será exibido a tela para que seja indicada a senha. 
 ![CadastroSenha](/Imagens/PrimeiroAcesso.PNG)
 
-A senha deve possuir entre 8 e 30 caracteres, contendo no mínimo uma letra maiúscula, uma letra minúscula e um numeral, caso a senha informada não obdeça a estes requisitos será exibida uma mensagem de erro e solicitado a digitação da senha seguindo os critérios informados. Efetuando a complemento do cadastro adequadamente, a próxima tela a ser exibida será o módulo que o usuário tem acesso.
+A senha deve possuir entre 8 e 30 caracteres, contendo no mínimo uma letra maiúscula, uma letra minúscula e um numeral, caso a senha informada não obdeça a estes requisitos será exibida uma mensagem de erro e solicitado a digitação da senha seguindo os critérios informados. Efetuando o complemento do cadastro adequadamente, a próxima tela a ser exibida será o módulo que o usuário tem acesso.
 
-Para acessar o kappta posteriormente o usuário deverá digitar em seu navegador de preferência a URL disponibilizada pela equipe do kappta que será a mesma disponibilizada no primeiro acesso. Após digitação da URL e confimação a tela abaixo será exibida em seu navegador.
+Para acessar o kappta posteriormente o usuário deverá digitar em seu navegador de preferência, a URL disponibilizada pela equipe do kappta, que será a mesma disponibilizada no primeiro acesso. Após digitação da URL e confimação a tela abaixo será exibida em seu navegador.
 ![TelaLogin](/Imagens/TelaLogin.PNG)
 
 # 2.1 Redifinição de senha
@@ -58,24 +58,22 @@ Caso não lembre qual seja o seu login para o sistema kappta, na tela inicial.
 Selecione recuperar login, informe o endereço de e-mail e clique em enviar, o sistema irá enviar um e-mail informando qual é o seu usuário.
 ![RecuperarLogin](/Imagens/RecuperarLogin.PNG)
 
-Segue modelo de e-mail para a recuperação do usuário.
+O e-mail enviado será conforme modelo abaixo.
 ![EmailRecuperarLogin](/Imagens/EmailRecuperarLogin.PNG)
 
 # 2.3 Botões de ação
 Toda a interação no sistema será através de botões, as descrições e imagens utilizados nos mesmos são intuitivas:
+ [BotaoIncluir](/Imagens/BotaoIncluir.PNG) Inclusão de um novo item.
 
-![BotaoIncluir](/Imagens/BotaoIncluir.PNG)-Inclusão de um novo item.
+![BotaoPesquisar](/Imagens/BotaoPesquisar.PNG) Ativa a pesquisa de algum ou mais de um filtro que tenha sido preenchido.
 
-![BotaoPesquisar](/Imagens/BotaoPesquisar.PNG)-Confirma a pesquisa de algum ou mais de um filtro que tenha sido preenchido.
+![LimparFiltros](/Imagens/BotaoLimpar.PNG) Efetua a limpeza dos filtros utilizados para a consulta de uma única vez.
 
-![LimparFiltros](/Imagens/BotaoLimpar.PNG)-Permiti a limpeza dos filtros utilizados para a consulta de uma única vez.
+![BotaoAlterar](/Imagens/BotaoAlterar.PNG) De acordo com o item selecionado, será aberta uma janela com dados cadastrados para este item.
 
-![BotaoAlterar](/Imagens/BotaoAlterar.PNG)-De acordo com o item selecionado, será aberta uma janela com dados cadastrados para este item.
+![BotaoSalvar](/Imagens/BotaoSalvar.PNG) As alterações ou inclusão só serão efetivadas após a confirmação do clique no botão.
 
-![BotaoSalvar](/Imagens/BotaoSalvar.PNG)-As alterações ou inclusão só serão gardadas, caso este botão seja acionado após o preenchimento dos campos.
-
-![BotaoAtivoAcionado](/Imagens/BotaoAtivoAcionado.PNG) e ![BotaoAtivoDesabilitado](/Imagens/BotaoAtivoDesabilitado.PNG)-Estes serão responsáveis para informar se o registro está ativo ou não.
-
+![BotaoAtivoAcionado](/Imagens/BotaoAtivoAcionado.PNG) e ![BotaoAtivoDesabilitado](/Imagens/BotaoAtivoDesabilitado.PNG) Estes botões tanto informam como podem mudar o status dos registros para ativo ou inativo.
 
 # 3.Módulos do sistema
 A divisão em módulos visa facilitar a distribuição de responsabilidades por usuário, pois desta forma cada  usuário terá disponível após logar no sistema, acesso apenas ao que for relacionado a sua função, permitindo assim um foco maior em suas competências.
@@ -96,7 +94,7 @@ Ao selecionar a opção origens, será exibido a lista com todas as origens come
 ![TelaInclusaoOrigem](/Imagens/TelaInclusaOrigem.PNG)
 - Lista dos campos e suas finalidades;
   - Nome: O nome da origem comercial.
-  - Código externo: As empresas geralmente enumeram as suas filias, caso exista esta é a informação a ser preenchida, caso contrário terá que ser criado um valor, pois o campo é obrigatório.
+  - Código externo: As empresas geralmente enumeram as suas filias, caso exista, esta é a informação a ser preenchida, caso contrário terá que ser criado um valor, pois o campo é obrigatório.
   - CEP: Código postal da localização da filial.
   - CNPJ: Número do cadastro nacional da pessoa jurídica.
   - Grupo: Indicar o grupo em que filial faz parte, caso exista, este grupo é uma forma de controle das filiais pela empresa, mais adiante iremos detalhar o cadastramento do mesmo.
@@ -157,7 +155,8 @@ O analista é o usuário que ficará responsável em analisar as propostas que f
 Para efetuar a pesquisa dos analistas cadastrados 
 
 ![TelaNovoAnalista](/Imagens/TelaNovoAnalista.PNG)
-- Lista dos campos
+- Lista de campos e suas finalidades;
+  - 
 
 
 
